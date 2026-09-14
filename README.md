@@ -26,7 +26,6 @@ Google Apps Script для проведения турниров по насто�
 tournament/
 ├── categories.gs      # Возрастные/гендерные категории
 ├── config.gs           # Хранение и чтение настроек турнира
-├── docs/                # Планы и спеки фич (markdown)
 ├── draw.gs              # Жеребьёвка: группы и плей-офф
 ├── drive.gs             # Работа с Google Drive
 ├── forms.gs             # Google Форма регистрации

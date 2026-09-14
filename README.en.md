@@ -26,7 +26,6 @@ This project is not part of the main Pingo web application (`/opt/pingo`) — it
 tournament/
 ├── categories.gs      # Age/gender categories
 ├── config.gs           # Storing and reading tournament settings
-├── docs/                # Feature plans and specs (markdown)
 ├── draw.gs              # Draw generation: groups and bracket
 ├── drive.gs             # Google Drive integration
 ├── forms.gs             # Google Form registration
